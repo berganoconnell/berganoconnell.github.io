@@ -1,18 +1,18 @@
 body {background-color: rgb(245,245,245);}
 
 h1 {font-family: sans-serif;
-  color: rgb(65,105,225);
+  color: rgb(0,102,204);
   font-size: 3em;
   text-align: center;}
    
 h2 {font-family: sans-serif;
-  color: rgb(65,105,225);
+  color: rgb(0,102,204);
   font-size: 2em;
   text-align: center;
   font-weight: bold;}
   
 h3 {font-family: sans-serif;
-  color: rgb(65,105,225);
+  color: rgb(0,102,204);
   text-transform: uppercase;
   text-align: left;}
 

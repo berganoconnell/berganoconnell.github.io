@@ -1,0 +1,62 @@
+/*CSS DOCUMENT*/
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+
+{background-color: rgb(255,230,196);}
+
+{margin-top: 300px;
+margin-right: 300px;
+margin-bottom: 300px;
+margin-left: 300px;} 
+
+h1 {font-family: optima;
+color: rgb(136,18,6);
+font-size: 2em;
+text-align: center;
+font-weight: bold;}
+
+h2 {font-family: helvetica;
+font-weight: 350;
+color: rgb(150,69,16);
+text-align: center;
+font-size: 1.5em;} 
+
+img {width: 100%;}
+
+p{font-family: helvetica;
+font-weight: 350;
+color: rgb(150,69,16);
+font-size: 1em;
+text-align: left;}
+
+h3{font-family: optima; 
+color: rgb(136,18,6); 
+font-size: 1.5em; 
+text-align: left;
+font-weight: bold;} 
+
+ul{font-family: helvetica;
+font-weight: 200;
+color: rgb(0,0,0);
+font-size: 1em;} 
+
+ol{font-family: helvetica;
+font-weight: 200;
+color: rgb(0,0,0);
+font-size: 1em;}
+
+h6{font-family: optima;
+font-weight: 200;
+color: rgb(0,0,0);
+text-align: center;}
+
+
+</body>
+</html>
+
+
